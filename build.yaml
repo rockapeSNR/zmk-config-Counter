@@ -15,6 +15,3 @@
 include:
   - board: seeeduino_xiao_ble
     shield: skipkount
-include:
-  - board: seeeduino_xiao_ble
-    shield: two_percent_milk

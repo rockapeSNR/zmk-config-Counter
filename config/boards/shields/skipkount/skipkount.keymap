@@ -35,10 +35,6 @@
         &kp D
         &mo FN
       >;
-
-#     sensor-bindings = <
-#       &inc_dec_kp C_VOL_UP C_VOL_DN
-#     >;
     }; 
     
     /* Function Layer
