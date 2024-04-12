@@ -1,6 +1,6 @@
 if SHIELD_SKIPKOUNT
 
 config ZMK_KEYBOARD_NAME
-  default "SkipKount_AUS_01"
+  default "SkipKount_AUS01"
 
 endif

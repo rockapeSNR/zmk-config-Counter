@@ -57,7 +57,7 @@
       bindings = <
         &bt BT_CLR
         &bt BT_SEL 0
-        &out OUT_USB
+        &bootloader
         &out OUT_BLE
         &trans
       >;
