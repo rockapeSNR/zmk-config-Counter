@@ -1,6 +1,6 @@
 file_format: "1"
 id: skipkount
-name: SkipKount
+name: SkipKount_AUS_01
 type: shield
 url: https://github.com/elvit/zmk-config-xiao_numpad
 description: Bluetooth wireless skipping counter
